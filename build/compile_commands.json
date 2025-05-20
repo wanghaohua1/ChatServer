@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/whh/testjson/src/server/chatserver.cpp",
+  "file": "/home/whh/testjson/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/whh/testjson/src/server/chatservice.cpp",
+  "file": "/home/whh/testjson/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/whh/testjson/src/server/main.cpp",
+  "file": "/home/whh/testjson/src/server/main.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/test.cpp.o -c /home/whh/testjson/src/server/test.cpp",
+  "file": "/home/whh/testjson/src/server/test.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/whh/testjson/src/server/db/db.cpp",
+  "file": "/home/whh/testjson/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/whh/testjson/src/server/model/friendmodel.cpp",
+  "file": "/home/whh/testjson/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/whh/testjson/src/server/model/groupmodel.cpp",
+  "file": "/home/whh/testjson/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/whh/testjson/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/whh/testjson/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/server",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/whh/testjson/src/server/model/usermodel.cpp",
+  "file": "/home/whh/testjson/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/whh/testjson/build/src/client",
+  "command": "/usr/bin/c++   -I/home/whh/testjson/include -I/home/whh/testjson/include/server -I/home/whh/testjson/include/server/db -I/home/whh/testjson/include/server/model -I/home/whh/testjson/include/server/redis -I/home/whh/testjson/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/whh/testjson/src/client/main.cpp",
+  "file": "/home/whh/testjson/src/client/main.cpp"
+}
+]
